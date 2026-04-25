@@ -4,7 +4,8 @@ People call me **Dyrochka**, and I write programs that sometimes actually work (
 
 ### What I love / what I’m learning
 - **Rust** 🦀  
-- **Go** (Golang) 🐹  
+- **Go** (Golang) 🐹
+- **Curry**(Haskell) ⚫
 - **Helix** (Modal edition)  
 - Infrastructure stuff and everything around it:  
   **Docker** ・ **Kubernetes** ・ **PostgreSQL** ・ **Linux** in general
