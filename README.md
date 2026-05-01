@@ -6,6 +6,7 @@ People call me **Dyrochka**, and I write programs that sometimes actually work (
 - **Rust** 🦀  
 - **Go** (Golang) 🐹
 - **Curry**(Haskell) ⚫
+- **Python** 🐍
 - **Helix** (Modal edition)  
 - Infrastructure stuff and everything around it:  
   **Docker** ・ **Kubernetes** ・ **PostgreSQL** ・ **Linux** in general
