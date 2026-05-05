@@ -14,6 +14,7 @@ People call me **Dyrochka**, and I write programs that sometimes actually work (
 ### Things I really want to try but I’m scared / no time
 - **Nix** — because there’s never enough time (´；ω；`)  
 - **Lisp** — because I’m genuinely scared to touch it… it’s too beautiful and too weird (´⊙ω⊙`)
+- **Ada** - because she's really smart and strict - smarted than me ... I almost feel like crying when I think about her ૮◞ ‸ ◟ ა
 
 ### Who I am at heart
 Lain Lover ♡  
