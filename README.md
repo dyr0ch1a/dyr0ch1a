@@ -5,7 +5,6 @@ People call me **Dyrochka**, and I write programs that sometimes actually work (
 ### What I love / what I’m learning
 - **Rust** 🦀  
 - **Go** (Golang) 🐹
-- **C#** (COOL) 👍
 - **Python** 🐍
 - **Helix** (Modal edition)  
 - Infrastructure stuff and everything around it:  
