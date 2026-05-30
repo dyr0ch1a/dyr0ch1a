@@ -3,13 +3,17 @@
 People call me **Dyrochka**, and I write programs that sometimes actually work (￣▽￣)
 
 ### What I love / what I’m learning
-- **Rust** 🦀  
-- **Go** (Golang) 🐹
-- **Python** 🐍
-- **JVM** (Chubby corp mommy)
-- **Helix** (Modal edition)  
-- Infrastructure stuff and everything around it:  
-  **Docker** ・ **Kubernetes** ・ **PostgreSQL** ・ **Linux** in general ・ **Nix**
+- **Rust** 🦀 (Safe and possessive red crab wife)
+- **Go** 🐹 (Fast, simple and surprisingly reliable gopher boy)
+- **Python** 🐍 (Elegant snek that can do literally everything)
+- **Lua** 🌙 (Script loli)
+- **JVM** ☕ (Chubby corp mommy)
+- **Helix** ⌨️ (Stoic modal editor with a beautiful heart)
+- **Docker** 🐳 (Portable little container husband)
+- **Kubernetes** ☸️ (Strict but caring orchestration daddy)
+- **PostgreSQL** 🐘 (Reliable, thicc and incredibly based database uncle)
+- **Linux** 🐧 (Based penguin that runs my whole life)
+- **Nix** ❄️ (Cold, pure and terrifyingly reproducible snow waifu)
 
 ### Things I really want to try but I’m scared / no time
 - **Lisp** — because I’m genuinely scared to touch it… it’s too beautiful and too weird (´⊙ω⊙`)
