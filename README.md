@@ -15,8 +15,8 @@ People call me **Dyrochka**, and I write programs that sometimes actually work (
 - **Nix** ❄️ (Cold, pure and terrifyingly reproducible snow waifu)
 
 ### Things I really want to try but I’m scared / no time
-- **Lisp** 🧠✨()
-- **Ada** 📏🎀 ()
+- **Lisp** 🧠✨(eldritch elegant goddess, too beautiful and too strange to approach directly)
+- **Ada** 📏🎀 (strict genius teacher mommy, so correct it feels intimidating)
 - **JVM** ecosystem ☕ (Chubby corp mommy)
 - **Erlang / Elixir** 📞 (chaotic telecom witch family who refuses to crash)
 - **Haskell** 🧮 (pure math goddess who speaks in riddles and types)
