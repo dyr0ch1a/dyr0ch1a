@@ -7,7 +7,6 @@ People call me **Dyrochka**, and I write programs that sometimes actually work (
 - **Go** 🐹 (Fast, simple and surprisingly reliable gopher boy)
 - **Python** 🐍 (Elegant snek that can do literally everything)
 - **Lua** 🌙 (Script loli)
-- **JVM** ☕ (Chubby corp mommy)
 - **Helix** ⌨️ (Stoic modal editor with a beautiful heart)
 - **Docker** 🐳 (Portable little container husband)
 - **Kubernetes** ☸️ (Strict but caring orchestration daddy)
@@ -16,8 +15,17 @@ People call me **Dyrochka**, and I write programs that sometimes actually work (
 - **Nix** ❄️ (Cold, pure and terrifyingly reproducible snow waifu)
 
 ### Things I really want to try but I’m scared / no time
-- **Lisp** — because I’m genuinely scared to touch it… it’s too beautiful and too weird (´⊙ω⊙`)
-- **Ada** - because she's really smart and strict - smarted than me ... I almost feel like crying when I think about her ૮◞ ‸ ◟ ა
+- **Lisp** 🧠✨()
+- **Ada** 📏🎀 ()
+- **JVM** ecosystem ☕ (Chubby corp mommy)
+- **Erlang / Elixir** 📞 (chaotic telecom witch family who refuses to crash)
+- **Haskell** 🧮 (pure math goddess who speaks in riddles and types)
+- **C++** (23) ⚔️ (Zoomer mommy)
+- **Carbon** 🧪 (experimental prototype girl who might become something huge someday)
+
+#### Closing note
+
+I understand I won’t be able to fully understand or master every one of these — but I enjoy exploring them, even if only partially, because each of them teaches a different way of thinking.
 
 ### Who I am at heart
 Lain Lover ♡  
