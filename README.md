@@ -16,8 +16,8 @@ People call me **Dyr0ch1a**.
 **Infrastructure**
 
 - Linux *(btw)*
-- PostgreSQL
-- Docker *(it works on my machine)*
+- There are various types of databases
+- VM, Contener and etc.
 
 People usually share funny facts here... Em...
 I admire computers from the golden age of IBM - bulky, noisy, overengineered, yet still faithfully doing their job after all these years.
